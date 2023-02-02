@@ -1,0 +1,8 @@
+user1,game1,10
+user1,game3,30
+user1,game10,20
+user2,game2,20
+user2,game3,30
+user1,game1,10
+user2,game2,20
+user3,game1,10
